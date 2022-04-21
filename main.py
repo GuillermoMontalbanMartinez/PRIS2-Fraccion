@@ -2,7 +2,7 @@
 from Fraction import Fraction
 
 
-numerador = int(input("Ingrese el numerador: "))
+NumeradoR = int(input("Ingrese el numerador: "))
 denominador = int(input("Ingrese el denominador: "))
 f1 = Fraction(numerador, denominador)
 print("Fraccion 1: ", f1)
